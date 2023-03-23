@@ -82,8 +82,8 @@ Ticker tkSecond;  // this lib create some task at schedule time (second...)
 
 
 // Replace with your Wi-Fi network credentials
-const char* ssid = "INDIGO";
-const char* password = "redsun1234";
+const char* ssid = "XXXXXXXX";
+const char* password = "XXXXXXXXXXXXXX";
 
 
 Adafruit_ST7789 tft = Adafruit_ST7789(TFT_CS, TFT_DC, TFT_RST);
